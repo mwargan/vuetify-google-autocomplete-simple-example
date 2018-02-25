@@ -6,7 +6,7 @@ import App from './App.vue'
 
 Vue.use(Vuetify)
 Vue.use(VuetifyGoogleAutocomplete, {
-  apiKey: 'AIzaSyDyJUwEpWPLTDZrX9TVeq5m8vGQScqyZCA',
+  apiKey: '...',
 });
 
 new Vue({
