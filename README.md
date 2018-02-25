@@ -1,6 +1,6 @@
 # vuetify-google-autocomplete-simple
 
-> A Vue.js project
+> A simple example app on how to use vuetify-google-autocomplete
 
 ## Build Setup
 
