@@ -25,11 +25,10 @@
     </v-app>
   </div>
 </template>
-
 <script>
 export default {
   name: 'app',
-  data () {
+  data() {
     return {
       address: null,
       googleResult: null,
@@ -47,7 +46,9 @@ export default {
     }
   },
 }
-</script>
 
+</script>
 <style lang="scss">
+
+
 </style>
